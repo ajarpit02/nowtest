@@ -13,6 +13,7 @@ def main():
     print("Reverse:", reverse_string(text))
     print("Word Count:", count_words("hello world from github"))
     print("Is Palindrome:", is_palindrome(text))
+    print("hello")
 
 if __name__ == "__main__":
     main()
